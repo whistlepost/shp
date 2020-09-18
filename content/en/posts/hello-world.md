@@ -1,7 +1,6 @@
----
-title: "Hello World"
-date: 2020-09-16T13:03:36+10:00
-draft: true
----
++++
+body = "This is a test"
+draft = true
+title = "Hello World"
 
-Hello, World!
++++
