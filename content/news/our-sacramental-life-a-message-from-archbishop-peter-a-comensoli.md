@@ -5,4 +5,4 @@ tags = []
 title = "Our sacramental life: A message from Archbishop Peter A Comensoli"
 
 +++
-[https://youtu.be/IvUsrg5K-Ks](https://youtu.be/IvUsrg5K-Ks "Our sacramental life: A message from Archbishop Peter A Comensoli")
+{{<youtube [IvUsrg5K-Ks](https://youtu.be/IvUsrg5K-Ks "Our sacramental life: A message from Archbishop Peter A Comensoli")>}}
