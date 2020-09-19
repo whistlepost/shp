@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 featured_image = "/images/mental-health.png"
 summary = ""
 tags = []
