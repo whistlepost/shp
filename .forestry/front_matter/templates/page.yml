@@ -7,14 +7,5 @@ fields:
   config:
     required: false
   label: Page Title
-- name: page_body
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Page Body
 pages:
 - content/about.md
