@@ -21,3 +21,5 @@ fields:
   type: tag_list
   default: []
   label: tags
+pages:
+- content/news/our-sacramental-life-a-message-from-archbishop-peter-a-comensoli.md
