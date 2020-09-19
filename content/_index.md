@@ -1,7 +1,7 @@
 +++
 date = ""
 tags = []
-title = "Sacred Heart Parish Preston"
+title = "Welcome"
 
 +++
 # Welcome
