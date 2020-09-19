@@ -1,6 +1,5 @@
 +++
 date = 2020-09-19T23:54:13Z
-draft = true
 featured_image = ""
 summary = ""
 tags = []
