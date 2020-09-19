@@ -14,11 +14,6 @@ sections:
   label: Bulletin
   create: all
   match: "**/*"
-- type: directory
-  path: content/articles
-  label: Articles
-  create: documents
-  match: "**/*"
 - type: document
   path: content/contact.md
   label: Contact
