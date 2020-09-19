@@ -1,7 +1,7 @@
 +++
 date = ""
 tags = []
-title = "Welcome"
+title = "Welcome to our community"
 
 +++
 Our warmest welcome to all who celebrate with us, whether long time residents or those newly arrived in the Parish.
