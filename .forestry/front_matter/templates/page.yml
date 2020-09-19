@@ -21,4 +21,5 @@ fields:
   default: []
   label: Tags
 pages:
+- content/_index.md
 - content/contact.md
