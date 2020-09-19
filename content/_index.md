@@ -15,5 +15,3 @@ Welcome to all guests and visitors. We thank God for you!
 [Contact Us]({{< ref "contact.md" >}})
 
 [Support Your Parish]({{< ref "donate.md" >}})
-
-{{< youtube IvUsrg5K-Ks >}}
