@@ -4,6 +4,14 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: content/mass-times
+  label: Mass Times
+  match: "**/*"
+- type: document
+  path: content/donate.md
+  label: Donate
+  match: "**/*"
 - type: directory
   path: content/services
   label: Services
