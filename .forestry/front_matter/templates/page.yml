@@ -27,4 +27,5 @@ fields:
   label: Featured Image
 pages:
 - content/_index.md
+- content/bulletin/_index.md
 - content/contact.md
