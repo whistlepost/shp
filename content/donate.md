@@ -18,11 +18,8 @@ For many of you, these uncertain times have brought about financial restraint. I
 Or you can contribute to the 2nd Collection via these details:
 
 **Bank:** NAB
-
 **Account Name:** Sacred Heart Parish Presbytery
-
 **BSB:** 083-347
-
 **Account Number:** 659026014
 
 (For those who contribute through Thanksgiving envelopes please use your envelope number or name as the description/reference).
