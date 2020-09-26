@@ -33,6 +33,7 @@ fields:
     required: false
   label: Summary
 pages:
+- content/news/migrant-and-refugee-sunday.md
 - content/news/our-sacramental-life-a-message-from-archbishop-peter-a-comensoli.md
 - content/news/social-justice-statement.md
 - content/news/social-services-sunday.md
