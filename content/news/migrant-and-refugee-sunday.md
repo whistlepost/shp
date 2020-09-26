@@ -7,4 +7,4 @@ tags = ["youtube", " video", " cam"]
 title = "Migrant and Refugee Sunday"
 
 +++
-{{ <youtube CgqVyATtkJM> }}
+{{< youtube CgqVyATtkJM >}}
