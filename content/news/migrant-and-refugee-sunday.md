@@ -6,4 +6,6 @@ tags = ["youtube", " video", " cam"]
 title = "Migrant and Refugee Sunday"
 
 +++
+A message from Archbishop Peter A Comensoli.
+
 {{< youtube CgqVyATtkJM >}}
