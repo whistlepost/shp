@@ -4,9 +4,11 @@ featured_image = ""
 summary = ""
 tags = []
 title = "Prayer for Courage and Compassion"
+[menu.Prayers]
+name = ""
+weight = 2
 
 +++
-
 Compassionate God, Your unconditional love for all inspires our hearts and empowers our actions for those who are most vulnerable. 
 
 May we boldly and humbly serve one another and be steadfast in our work for justice for all people. Keep our hearts open to the joys and the hopes of our world, and our ears ready to hear your call to truth, justice and reconciliation.
