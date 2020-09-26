@@ -5,3 +5,11 @@ tags = []
 title = "Online Mass"
 
 +++
+
+## Zoom Live Stream Masses
+
+Monday – Friday at 9.10 am
+
+Sunday at 10.30 am
+
+Please call Fr Jan for Zoom ID on 9480 3398
