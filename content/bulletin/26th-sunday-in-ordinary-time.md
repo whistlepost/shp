@@ -1,6 +1,5 @@
 +++
 date = 2020-09-26T23:24:37Z
-draft = true
 featured_image = "/images/words-vs-deeds.png"
 summary = "“Which of the two did his father's will?\" This question posed by Jesus in today’s gospel touches a fundamental human dilemma: the gap between words and deeds, be-tween intention and decision, between desires expressed in the calm of reflection and the quick fixes of lived life. This is a gap we all know: our deeds often fail to match our words!"
 tags = []
