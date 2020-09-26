@@ -2,7 +2,7 @@
 date = 2020-09-26T23:24:37Z
 draft = true
 featured_image = "/images/words-vs-deeds.png"
-summary = ""
+summary = "“Which of the two did his father's will?\" This question posed by Jesus in today’s gospel touches a fundamental human dilemma: the gap between words and deeds, be-tween intention and decision, between desires expressed in the calm of reflection and the quick fixes of lived life. This is a gap we all know: our deeds often fail to match our words!"
 tags = []
 title = "26th Sunday in Ordinary Time"
 
@@ -11,7 +11,7 @@ title = "26th Sunday in Ordinary Time"
 
 [Full Bulletin](http://nebula.wsimg.com/a69579428b83dcd426018ac539faea66?AccessKeyId=2AF9533DEE1BA9433B58&disposition=0&alloworigin=1 "Full Bulletin")
 
-“Which of the two did his father's will?" This question posed by Jesus in today’s gos-pel touches a fundamental human dilemma: the gap between words and deeds, be-tween intention and decision, between desires expressed in the calm of reflection and the quick fixes of lived life. This is a gap we all know: our deeds often fail to match our words!
+“Which of the two did his father's will?" This question posed by Jesus in today’s gospel touches a fundamental human dilemma: the gap between words and deeds, be-tween intention and decision, between desires expressed in the calm of reflection and the quick fixes of lived life. This is a gap we all know: our deeds often fail to match our words!
 
 But the gospel raises also more profound questions for us than simply reminding us to practice what we preach. It poses us a series of interconnected challenges.
 
