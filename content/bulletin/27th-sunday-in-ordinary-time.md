@@ -1,6 +1,5 @@
 +++
 date = 2020-10-03T23:22:29Z
-draft = true
 featured_image = "/images/bulletin-cover-20201004.png"
 summary = "Two main thoughts come to mind while reflecting on the gospel parable today. First, the infinite goodness, patience and the mercy of God in his dealing with humankind and secondly, the unsounded depth of wickedness and ingratitude to which people can sink."
 tags = []
