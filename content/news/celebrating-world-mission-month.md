@@ -1,6 +1,5 @@
 +++
 date = 2020-10-03T23:28:12Z
-draft = true
 featured_image = "/images/catholic-mission.png"
 summary = "October is recognised in the Catholic Church as World Mission Month, a time when Catholics all over the world join to support and celebrate global missionary work."
 tags = []
