@@ -1,6 +1,5 @@
 +++
 date = 2020-10-11T00:06:28Z
-draft = true
 featured_image = ""
 summary = "On this Feast of St Francis of Assisi, passionate and poetic missionary of the Gospel, I share with you the Holy Father’s awaited Encyclical"
 tags = ["news"]
