@@ -1,6 +1,6 @@
 +++
 date = ""
-featured_image = ""
+featured_image = "/images/chuch-photo.png"
 tags = []
 title = "Welcome"
 
