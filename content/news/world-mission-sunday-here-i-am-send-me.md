@@ -9,3 +9,19 @@ title = "World Mission Sunday ‘Here I Am, Send Me’"
 The annual World Mission Sunday joins all Catholics of the world into one community of faith. At Mass that Sunday, we recommit ourselves to our common vocation, through Baptism, to be missionaries, through prayer, participation in the Eucharist, and by giving generously to the collection for the Society for the Propagation of the Faith.
 
 Pope Francis, in his message for World Mission Sunday, implores us, “In this year marked by the suffering and challenges created by the COVID-19 pandemic, the missionary journey of the whole Church continues in light of the words found in the account of the calling of the prophet Isaiah: “Here I am, send me” (6:8). This is the ever-new response to the Lord’s question: ‘Whom shall I send?’ This invitation from God’s merciful heart challenges both the Church and humanity, in the current world crisis.”
+
+> #### Special Collection
+>
+> Traditionally, there has been a special collection to support
+>
+> the missionary work of the Church. Although we
+>
+> cannot celebrate in church and make an offering, those
+>
+> who can and would like to make a donation, you may
+>
+> make a bank deposit, specifying your deposit for
+>
+> “Mission Sunday” or bring your donation to the Presbytery.
+>
+> Thank you.
