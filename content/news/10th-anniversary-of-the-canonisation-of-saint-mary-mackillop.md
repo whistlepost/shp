@@ -1,6 +1,5 @@
 +++
 date = 2020-10-11T00:29:35Z
-draft = true
 featured_image = "/images/mary-mckillop.png"
 summary = "Sisters of Saint Joseph invite you to order your free copy of ‘Encountering St Mary MacKillop in Prayer’"
 tags = ["news"]
