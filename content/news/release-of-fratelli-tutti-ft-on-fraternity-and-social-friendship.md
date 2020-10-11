@@ -26,6 +26,4 @@ Yours in peace and fraternity
 >
 > A world that looks beyond a global pandemic with no roadmap can find one in Pope Francis’ new encyclical Fratelli Tutti, which Archbishop Mark Coleridge says “is not just for believers but for the entire human family”.
 >
-> “It is a vision of the dignity of every human being from which flows the call to build a new culture of fraternity and dialogue,” said Archbishop Coleridge. “In his previous encyclical Laudato Si’ Pope Francis spoke of care for our common home. Here he speaks of care for each other, the
->
-> family that dwells together in the common home.”
+> “It is a vision of the dignity of every human being from which flows the call to build a new culture of fraternity and dialogue,” said Archbishop Coleridge. “In his previous encyclical Laudato Si’ Pope Francis spoke of care for our common home. Here he speaks of care for each other, the family that dwells together in the common home.”
