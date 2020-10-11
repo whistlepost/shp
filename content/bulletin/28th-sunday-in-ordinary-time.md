@@ -1,6 +1,5 @@
 +++
 date = 2020-10-10T23:57:01Z
-draft = true
 featured_image = "/images/bulletin-cover-20201011.png"
 summary = "In today’s gospel parable, the king sends out his servants, referring to the long line of prophets sent to the people of Israel calling them to love and service"
 tags = []
