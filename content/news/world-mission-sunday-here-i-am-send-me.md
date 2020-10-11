@@ -12,16 +12,8 @@ Pope Francis, in his message for World Mission Sunday, implores us, “In this y
 
 > #### Special Collection
 >
-> Traditionally, there has been a special collection to support
+> Traditionally, there has been a special collection to support the missionary work of the Church. Although we cannot celebrate in church and make an offering, those who can and would like to make a donation, you may
 >
-> the missionary work of the Church. Although we
->
-> cannot celebrate in church and make an offering, those
->
-> who can and would like to make a donation, you may
->
-> make a bank deposit, specifying your deposit for
->
-> “Mission Sunday” or bring your donation to the Presbytery.
+> make a bank deposit, specifying your deposit for “Mission Sunday” or bring your donation to the Presbytery.
 >
 > Thank you.
