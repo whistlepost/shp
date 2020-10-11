@@ -6,6 +6,8 @@ tags = ["news"]
 title = "Release of Fratelli Tutti (FT) - on Fraternity and Social Friendship"
 
 +++
+{{< youtube HLAaYb3mPro >}}
+
 Dear Sisters and Brothers in Christ,
 
 “..if the music of the Gospel ceases to resonate in our very being, we will lose the joy born of compassion, the tender love born of trust, the capacity for reconciliation that has its source in our knowledge that we have been forgiven and sent forth. If the music of the Gospel ceases to sound in our homes, our public squares, our workplaces, our political and financial life, then we will no longer hear the strains that challenge us to defend the dignity of every man and woman”. \[FT 277\]
