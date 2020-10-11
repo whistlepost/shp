@@ -1,6 +1,5 @@
 +++
 date = 2020-10-11T00:19:01Z
-draft = true
 featured_image = "/images/mission-sunday.png"
 summary = "The annual World Mission Sunday joins all Catholics of the world into one community of faith"
 tags = ["events"]
