@@ -1,6 +1,5 @@
 +++
 date = 2020-10-31T23:02:44Z
-draft = true
 featured_image = "/images/bulletin-cover-20201101.png"
 summary = "When we think about holiness, many of us tend to think that only extraordinary people are holy people. Perhaps that’s a way of defending against the idea that God is asking us to be holy too. Or we think that holy people are those special ones in monasteries and convents, gliding silently around in cloistered gardens while reciting their prayer books, with little birds fluttering around St. Francis of Assisi and the like."
 tags = []
