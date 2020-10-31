@@ -1,6 +1,5 @@
 +++
 date = 2020-10-31T22:57:35Z
-draft = true
 featured_image = "/images/all-saints-day.png"
 summary = ""
 tags = []
