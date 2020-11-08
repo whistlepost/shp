@@ -1,6 +1,5 @@
 +++
 date = 2020-11-07T23:57:19Z
-draft = true
 featured_image = "/images/bulletin-cover-20201108.png"
 summary = "The Gospel parable of the ten virgins represents the “Chosen People of God” who were waiting for the Messiah to come. Some were prepared to welcome him even if he was late. Others were not. Are we prepared to meet him when he comes? How are we to re-main ever prepared?"
 tags = []
