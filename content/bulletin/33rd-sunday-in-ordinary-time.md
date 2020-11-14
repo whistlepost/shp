@@ -1,6 +1,5 @@
 +++
 date = 2020-11-14T22:34:51Z
-draft = true
 featured_image = "/images/bulletin-cover-20201115.png"
 summary = "Do not Fear but have Faith"
 tags = []
