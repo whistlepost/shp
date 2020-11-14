@@ -1,6 +1,5 @@
 +++
 date = 2020-11-14T22:41:33Z
-draft = true
 featured_image = "/images/naidoc-week.png"
 summary = ""
 tags = []
