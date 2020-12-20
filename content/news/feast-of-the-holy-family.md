@@ -1,6 +1,5 @@
 +++
 date = 2020-12-20T00:09:59Z
-draft = true
 featured_image = "/images/feast-of-holy-family.png"
 summary = "Sunday 27th December is the feast day of the Holy Family"
 tags = []
