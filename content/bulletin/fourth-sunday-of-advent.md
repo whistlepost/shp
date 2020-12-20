@@ -1,6 +1,5 @@
 +++
 date = 2020-12-19T23:59:50Z
-draft = true
 featured_image = "/images/bulletin-cover-20201220.png"
 summary = "The theme that runs through today’s readings is giving Glory to God. King David builds a temple to the glory of God. St Paul exhorts us to give glory to God; and in the gospel, Mary gives glory to God by accepting his plan for her and dedicating her entire life to God."
 tags = []
